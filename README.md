@@ -1,16 +1,7 @@
 # fsecure_car
 
-A new Flutter application.
+Greetings, dear judges
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+My Mobile application is based on the implementation of car theft security system which uses facial recognition model to check the authenticity of a person driving the car.
+This technique allows user (owner of the car) to register his face in the database.
+Whenever a face other than the owner's face is detected, the screenshot is sent to the owner and if he approves the screnshot (this might be the case that he/she is their family member), then the user is approves otherwise in case of any anonymous face inside the car, the owner can enable a buzzer from the app itself which would buzz in the car indicating to a possible theft in progress.
