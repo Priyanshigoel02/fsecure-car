@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "989060041913",
+    "project_id": "f--car",
+    "storage_bucket": "f--car.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:989060041913:android:57516aee5628f55ee0df68",
+        "android_client_info": {
+          "package_name": "priyanshigoel.fsecure_car"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "989060041913-vhsa6mridq9u6rqdqroqaiv1tr4rsjlp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWKOIULKKAJ4vu_HOdHdl61ArUVHW4ndY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "989060041913-vhsa6mridq9u6rqdqroqaiv1tr4rsjlp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
